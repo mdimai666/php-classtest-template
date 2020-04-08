@@ -4,8 +4,8 @@
 
 ?>
 
-<div class="alert alert-secondary">
-    <h3>SomeClass Class</h3>
+<div class="alert ">
+    <h3 style="color:#00b179;"><span style="color:blue">Class::</span>SomeClass </h3>
 
 
 </div>
