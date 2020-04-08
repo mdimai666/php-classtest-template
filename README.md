@@ -7,6 +7,9 @@ template for php developers
 - less 
 - routes
 - save setting on file class
+- GET/POST request
+- highlight json
+- php highlighted dumo **__dump($var)**;
 
 ```php
 $host = 'http://localhost:1880/';
